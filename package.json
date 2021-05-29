@@ -1,0 +1,17 @@
+{
+  "name": "thread",
+  "version": "1.0.0",
+  "description": "Multiple Thraed Implementation",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Sankhadip Samanta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
